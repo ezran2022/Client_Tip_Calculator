@@ -21,8 +21,10 @@ in order to help you to know how much money every person is going to pay
 ![image](https://user-images.githubusercontent.com/103323625/185870241-2df5deca-6f5a-4b9b-b2c8-01324e45d7bb.png)
 
 ### This is how our system workkkk!!!!!!!!!!!
+###Link
+https://nimble-youtiao-c790e9.netlify.app
 
-
+### Code
 
 ``` javascript
 // bill input, tip input, number of people div, and per person total div
